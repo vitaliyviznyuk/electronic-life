@@ -1,0 +1,19 @@
+{
+    "name": "vitaliyviznyuk/electronic-life",
+    "description": "Electronic Life is a simple virtual ecosystem, a small world populated by creatures that move and struggle for survival.",
+    "keywords": ["virtual", "ecosystem", "simulation"],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitaliy Viznyuk",
+            "email": "vitaliyviznyuk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": { "vitaliyviznyuk\\ElectronicLife\\": "src/" }
+    }
+}
